@@ -1,0 +1,8 @@
+2025-04-19 00:30:12,275 - __main__ - ERROR - Unexpected error: 'module' object is not callable
+Traceback (most recent call last):
+  File "c:\Users\Arsalan-Dev\Desktop\New folder\ud\testing.py", line 76, in <module>
+    main()
+    ~~~~^^
+  File "c:\Users\Arsalan-Dev\Desktop\New folder\ud\testing.py", line 21, in main
+    scraper = PGWScraper()
+TypeError: 'module' object is not callable
